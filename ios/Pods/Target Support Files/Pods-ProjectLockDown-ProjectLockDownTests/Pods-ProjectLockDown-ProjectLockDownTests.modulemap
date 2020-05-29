@@ -1,0 +1,6 @@
+module Pods_ProjectLockDown_ProjectLockDownTests {
+  umbrella header "Pods-ProjectLockDown-ProjectLockDownTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

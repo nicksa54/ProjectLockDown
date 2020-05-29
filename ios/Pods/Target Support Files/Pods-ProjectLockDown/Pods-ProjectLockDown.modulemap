@@ -1,0 +1,6 @@
+module Pods_ProjectLockDown {
+  umbrella header "Pods-ProjectLockDown-umbrella.h"
+
+  export *
+  module * { export * }
+}
